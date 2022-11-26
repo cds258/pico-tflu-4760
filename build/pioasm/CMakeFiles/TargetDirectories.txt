@@ -1,0 +1,3 @@
+/home/christopher/pico/pico-tflu-4760/build/pioasm/CMakeFiles/rebuild_cache.dir
+/home/christopher/pico/pico-tflu-4760/build/pioasm/CMakeFiles/edit_cache.dir
+/home/christopher/pico/pico-tflu-4760/build/pioasm/CMakeFiles/pioasm.dir
